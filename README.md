@@ -1,5 +1,5 @@
 # 🌿 CO₂ Capture Efficiency Prediction using Machine Learning  
-### 🔬 Random Forest Model for Amine Absorption Systems
+
 
 ---
 
@@ -12,6 +12,12 @@ The repository includes *two model versions*:
 - 🚀 *Advanced Model* – feature engineering + scaling + GridSearchCV tuning  
 
 ---
+## 🛠 Tech Stack  
+- *Python*  
+- *NumPy, **Pandas*  
+- *Scikit-learn*  
+- *Matplotlib*  
+- *RandomForestRegressor, **GridSearchCV* 
 
 ## 🎯 Problem Statement  
 Predicting CO₂ capture efficiency using classical equations is challenging due to multiple interacting operating variables.  
@@ -62,17 +68,9 @@ This project builds a *data-driven ML model* that can accurately estimate CO₂ 
 - Amine type  
 - Concentration levels  
 
----
-
-## 🛠 Tech Stack  
-- *Python*  
-- *NumPy, **Pandas*  
-- *Scikit-learn*  
-- *Matplotlib*  
-- *RandomForestRegressor, **GridSearchCV*  
-
----
 ## 🌍 Motivation
 
 Carbon capture is essential to reduce global CO₂ emissions.
 Machine learning provides a fast, scalable, and accurate approach to analyze capture performance and optimize operating conditions.
+
+**Created with ♥️ by :** [Tulsi Singh](https://github.com/tulsi-singh4)
