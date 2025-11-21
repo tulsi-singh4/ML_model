@@ -12,10 +12,10 @@ The repository includes *two model versions*:
 ---
 ## 🛠 Tech Stack  
 - *Python*  
-- *NumPy, **Pandas*  
+- *NumPy*, *Pandas*  
 - *Scikit-learn*  
 - *Matplotlib*  
-- *RandomForestRegressor, **GridSearchCV* 
+- *RandomForestRegressor*, *GridSearchCV* 
 
 ## 🎯 Problem Statement  
 Predicting CO₂ capture efficiency using classical equations is challenging due to multiple interacting operating variables.  
