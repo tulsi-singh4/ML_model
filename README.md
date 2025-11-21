@@ -72,19 +72,7 @@ This project builds a *data-driven ML model* that can accurately estimate CO₂ 
 - *RandomForestRegressor, **GridSearchCV*  
 
 ---
+## 🌍 Motivation
 
-## 🚀 How to Run  
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/CO2-Capture-ML-Model.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the basic model
-python src/basic_model.py
-
-# Run the advanced model
-python src/advanced_model.py
-
+Carbon capture is essential to reduce global CO₂ emissions.
+Machine learning provides a fast, scalable, and accurate approach to analyze capture performance and optimize operating conditions.
