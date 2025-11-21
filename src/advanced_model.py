@@ -1,3 +1,4 @@
+# Feature engineering,scaling, GridSearchCV, plots
 # advanced_model.py
 
 import numpy as np
