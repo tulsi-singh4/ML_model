@@ -1,8 +1,6 @@
 # 🌿 CO₂ Capture Efficiency Prediction using Machine Learning  
 
 
----
-
 ## 📌 Overview  
 This project develops a *Machine Learning model* to predict *CO₂ capture efficiency* in an *amine absorption system*, a widely used industrial carbon-capture method.  
 Using a *Random Forest Regression* approach, the model learns how variables such as temperature, pressure, amine type, and concentration influence CO₂ loading.
